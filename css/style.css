@@ -1,0 +1,54 @@
+/* Estilo general */
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #e5e5e5;
+    text-align: center;
+}
+
+/* Encabezado */
+.encabezado{
+    background-color: #2f4054;
+    color: white;
+    padding: 20px;
+}
+
+/* Contenedor de tarjetas */
+.contenedor-tarjetas{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px;
+}
+
+/* Tarjetas */
+.tarjeta{
+    background-color: white;
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Iconos */
+.icono{
+    font-size: 40px;
+}
+
+/* Título */
+.titulo-hobby{
+    margin-top: 10px;
+}
+
+/* Descripción */
+.descripcion-hobby{
+    color: gray;
+    font-size: 14px;
+}
+
+/* Pie de página */
+.pie-pagina{
+    background-color: #2f4054;
+    color: white;
+    padding: 10px;
+}
