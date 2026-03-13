@@ -8,7 +8,7 @@ body{
 
 /* Encabezado */
 .encabezado{
-    background-color: #2f4054;
+    background-color: #3c5169;
     color: white;
     padding: 20px;
 }
@@ -48,7 +48,7 @@ body{
 
 /* Pie de página */
 .pie-pagina{
-    background-color: #2f4054;
+    background-color: #3f546b;
     color: white;
     padding: 10px;
 }
